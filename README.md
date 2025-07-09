@@ -421,7 +421,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 **Support**
 
-- **Documentation**: [https://docs.reckon.ai](https://docs.reckon.technology)
+- **Documentation**: (https://docs.reckon.technology)
 - **Discord**: [Join our community](https://discord.gg/reckontechnology)
 - **Email**: contact@reckon.technology
 - **Issues**: [GitHub Issues](https://github.com/reckontechnology/reckon-ai-indexer/issues)
